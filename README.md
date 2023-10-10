@@ -1,2 +1,5 @@
 # Translera
-English Speech to ASL translation aid developed for Capstone Project
+This is Translera, an English-to-ASL tranlation program developed by Camden Mercer, Erin Sharpe, Jonah Hanrahan and Noah Hanrahan for our Capstone Project. Translera can take in either English speach or text inputs and translate it to either an ASL letter-by-letter spelling of the message or a video output that uses a video for each word in the message and merges the individual word videos into a single video for the message to display to the user. To generate the output message, Translera has access to a data base of almost 2000 videos of ASL words to piece together to produce the final output the user requests, and if the message contains a word not present in the database, Translera will take the word and divide it into the individual letters and display the videos for each letter to represent the word.
+Some important things to note with Translera:
+This is not the proper version of Translera, but rather a code dump of the project. This version lacks many of the videos and if you were to download it and try to run it immedeatly, it likely would not work.
+Translera is not a suitable replacement to ASL translator, but rather serves as a proof of concept to show what technology can do for people who are or know someone who is hard of hearing.
